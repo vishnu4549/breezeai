@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/breezeai/static/css/main.e6c13ad2.css",
+    "main.js": "/breezeai/static/js/main.4cd4a448.js",
+    "static/js/787.5316296d.chunk.js": "/breezeai/static/js/787.5316296d.chunk.js",
+    "index.html": "/breezeai/index.html",
+    "main.e6c13ad2.css.map": "/breezeai/static/css/main.e6c13ad2.css.map",
+    "main.4cd4a448.js.map": "/breezeai/static/js/main.4cd4a448.js.map",
+    "787.5316296d.chunk.js.map": "/breezeai/static/js/787.5316296d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4cd4a448.js"
+  ]
+}
